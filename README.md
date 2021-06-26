@@ -56,7 +56,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaochioda/rockttutorial
+$ git clone https://github.com/joaochioda/nlw-flutter
 
 # Go into the back
 $ cd back
